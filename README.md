@@ -14,21 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--START_SECTION:waka-->
-name: Waka Readme
 
-on:
-  schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Stanley-Yao)](https://github.com/anuraghazra/github-readme-stats)
 
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-<!--END_SECTION:waka-->
 
