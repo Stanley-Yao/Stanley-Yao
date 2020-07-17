@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--START_SECTION:waka-->
 - name: Waka - Readme
   uses: athul/waka-readme@0.1.2
+<!--END_SECTION:waka-->
+
