@@ -9,9 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 50 mins   ███████████████▓░░░░░░░░░   62.48 % 
-JavaScript   3 hrs 53 mins   █████████░░░░░░░░░░░░░░░░   35.58 % 
-CSV          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-GraphQL      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript   6 hrs 58 mins   ███████████████▓░░░░░░░░░   62.41 % 
+JavaScript   3 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.92 % 
+CSV          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+GraphQL      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
