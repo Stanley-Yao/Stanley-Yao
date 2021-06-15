@@ -9,7 +9,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other      12 mins         ████████████████████▓░░░░   82.26 % 
-Markdown   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.47 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
