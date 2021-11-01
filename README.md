@@ -9,6 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   1 min           █████████████████████████   100.00 % 
+TypeScript   11 mins         ██████████████░░░░░░░░░░░   56.47 % 
+Bash         4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.96 % 
+JSON         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Git Config   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 ```
 <!--END_SECTION:waka-->
