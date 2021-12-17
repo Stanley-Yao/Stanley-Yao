@@ -9,6 +9,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart       5 mins          ███████████████████░░░░░░   75.63 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
