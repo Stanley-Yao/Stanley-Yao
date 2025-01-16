@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on React, Java, Swift, Java, flutter
 - 💬 Ask me about Anything
-- 📫 How to reach me: stanley_yao@intuit.com
+- 📫 How to reach me: stanley.yao2@gmail.com
 
 
 <!--START_SECTION:waka-->
