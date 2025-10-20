@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on React, Java, Swift, Java, flutter
-- 💬 Ask me about Anything
-- 📫 How to reach me: stanley@easyappsolution.com
+- EasyApp.ca Owner
+- I provide solutions to small to medium businesses.
 
 
 <!--START_SECTION:waka-->
